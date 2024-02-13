@@ -1,0 +1,32 @@
+[
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "dfg",
+        "ubi": "dfg",
+        "capacidad": 120,
+        "numero_salas": 12,
+        "clasificacion": "a",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 1,
+                "capacidad": 120,
+                "formato_pantalla": "dfg",
+                "sonido": "dfg",
+                "tipo": "df",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 1,
+                        "hora_inicio": "12:00",
+                        "duracion": "2:00",
+                        "tipo_proyeccion": "",
+                        "precio_entrada": 12.0,
+                        "pelicula": "dfgh"
+                    }
+                ]
+            }
+        ]
+    }
+]

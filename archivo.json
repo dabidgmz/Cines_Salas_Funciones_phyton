@@ -1,0 +1,122 @@
+[
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "CineCity",
+        "ubi": "Centro",
+        "capacidad": 100000,
+        "numero_salas": 5,
+        "clasificacion": "A",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 1,
+                "capacidad": 50,
+                "formato_pantalla": "3D",
+                "sonido": "Dolby Atmos",
+                "tipo": "VIP",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 1,
+                        "hora_inicio": "18:00",
+                        "duracion": "2 horas",
+                        "tipo_proyeccion": "Digital",
+                        "precio_entrada": 10.5,
+                        "pelicula": "Spider-Man: No Way Home"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "arreglo": [],
+        "num": 2,
+        "nombre": "CineStar",
+        "ubi": "Sur",
+        "capacidad": 200,
+        "numero_salas": 3,
+        "clasificacion": "B",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 2,
+                "capacidad": 40,
+                "formato_pantalla": "2D",
+                "sonido": "DTS",
+                "tipo": "Regular",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 2,
+                        "hora_inicio": "20:30",
+                        "duracion": "2.5 horas",
+                        "tipo_proyeccion": "IMAX",
+                        "precio_entrada": 15.0,
+                        "pelicula": "Gwen Stacy: Into the Spider-Verse"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "CineCity",
+        "ubi": "Centro",
+        "capacidad": 300,
+        "numero_salas": 5,
+        "clasificacion": "A",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 1,
+                "capacidad": 50,
+                "formato_pantalla": "3D",
+                "sonido": "Dolby Atmos",
+                "tipo": "VIP",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 1,
+                        "hora_inicio": "18:00",
+                        "duracion": "2 horas",
+                        "tipo_proyeccion": "Digital",
+                        "precio_entrada": 10.5,
+                        "pelicula": "Spider-Man: No Way Home"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "CineCity",
+        "ubi": "Centro",
+        "capacidad": 30000,
+        "numero_salas": 5,
+        "clasificacion": "A",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 1,
+                "capacidad": 50,
+                "formato_pantalla": "3D",
+                "sonido": "Dolby Atmos",
+                "tipo": "VIP",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 1,
+                        "hora_inicio": "18:00",
+                        "duracion": "2 horas",
+                        "tipo_proyeccion": "Digital",
+                        "precio_entrada": 10.5,
+                        "pelicula": "Spider-Man: No Way Home"
+                    }
+                ]
+            }
+        ]
+    }
+]

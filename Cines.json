@@ -1,0 +1,86 @@
+[
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "dfg",
+        "ubi": "dfg",
+        "capacidad": 120,
+        "numero_salas": 12,
+        "clasificacion": "a",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": 1,
+                "capacidad": 120,
+                "formato_pantalla": "dfg",
+                "sonido": "dfg",
+                "tipo": "df",
+                "funciones": [
+                    {
+                        "arreglo": [],
+                        "nf": 1,
+                        "hora_inicio": "12:00",
+                        "duracion": "2:00",
+                        "tipo_proyeccion": "",
+                        "precio_entrada": 12.0,
+                        "pelicula": "dfgh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "arreglo": [],
+        "num": 1,
+        "nombre": "dfg",
+        "ubi": "dfg",
+        "capacidad": 120,
+        "numero_salas": 12,
+        "clasificacion": "a",
+        "salas": {
+            "arreglo": [],
+            "numero_sala": null,
+            "capacidad": null,
+            "formato_pantalla": null,
+            "sonido": null,
+            "tipo": null,
+            "funciones": {
+                "numero_funcion": null,
+                "hora_inicio": null,
+                "duracion": null,
+                "tipo_proyeccion": null,
+                "precio_entrada": null,
+                "pelicula": null
+            }
+        }
+    },
+    {
+        "arreglo": [],
+        "num": "11",
+        "nombre": "ci",
+        "ubi": "dd",
+        "capacidad": "100",
+        "numero_salas": "12",
+        "clasificacion": "d",
+        "salas": [
+            {
+                "arreglo": [],
+                "numero_sala": "12",
+                "capacidad": "12",
+                "formato_pantalla": "dd",
+                "sonido": "dd",
+                "tipo": "ff",
+                "funciones": [
+                    {
+                        "numero_funcion": 1,
+                        "hora_inicio": "12:00",
+                        "duracion": "2:00",
+                        "tipo_proyeccion": "dd",
+                        "precio_entrada": 2.0,
+                        "pelicula": "dd"
+                    }
+                ]
+            }
+        ]
+    }
+]

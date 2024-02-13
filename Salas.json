@@ -1,0 +1,19 @@
+[
+    {
+        "numero_sala": 1,
+        "capacidad": 50,
+        "formato_pantalla": "3D",
+        "sonido": "Dolby Atmos",
+        "tipo": "VIP",
+        "funciones": [
+            {
+                "numero_funcion": 1,
+                "hora_inicio": "18:00",
+                "duracion": "2 horas",
+                "tipo_proyeccion": "Digital",
+                "precio_entrada": 10.5,
+                "pelicula": "Spider-Man: No Way Home"
+            }
+        ]
+    }
+]
